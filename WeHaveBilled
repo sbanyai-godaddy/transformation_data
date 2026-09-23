@@ -1,0 +1,77 @@
+// Payload examples for payment_types
+/* 
+1. Credit card
+2. Account
+3. GoodAsGold (Currently used)
+4. In-store credit
+5. Gift card
+6. PayPal
+7. SEPA
+--------------------------------------
+1. Credit card
+{
+  "OrderId": "2204453808",
+  "TransactionCurrency": "USD",
+  "OrderTotal": 114800,
+  "payment_type": "creditcard",
+  "CC_TYPE": "VISA",
+  "CC_LAST_TWO": "70"
+}
+--------------------------------------
+2. Account
+{
+  "OrderId": "2204453809",
+  "TransactionCurrency": "USD",
+  "OrderTotal": 5999,
+  "payment_type": "account",
+  "CC_TYPE": "Checking",
+  "CC_LAST_TWO": "34"
+}
+--------------------------------------
+3. GoodAsGold / GoDaddyCash
+{
+  "OrderId": "2204453810",
+  "TransactionCurrency": "USD",
+  "OrderTotal": 1299,
+  "payment_type": "goodasgold"
+}
+--------------------------------------
+4. In-store credit
+{
+  "OrderId": "2204453812",
+  "TransactionCurrency": "USD",
+  "OrderTotal": 2500,
+  "payment_type": "instorecredit"
+}
+--------------------------------------
+5. Gift card
+{
+  "OrderId": "2204453813",
+  "TransactionCurrency": "USD",
+  "OrderTotal": 4500,
+  "payment_type": "giftcard",
+  "CC_LAST_TWO": "88"
+}
+--------------------------------------
+6. PayPal
+{
+  "OrderId": "2204453814",
+  "TransactionCurrency": "USD",
+  "OrderTotal": 7999,
+  "payment_type": "paypal",
+  "CC_LAST_TWO": "19"
+}
+--------------------------------------
+7. SEPA
+{
+  "OrderId": "2204453815",
+  "TransactionCurrency": "EUR",
+  "OrderTotal": 9999,
+  "payment_type": "sepa",
+   "IBAN_ENDS_WITH": "42",
+  "CREDITOR_ID": "DE98ZZZ09999999999",
+  "CREDITOR_NAME": "GoDaddy",
+  "MANDATE_ID": "MDT-123456789"
+}
+--------------------------------------
+*/
