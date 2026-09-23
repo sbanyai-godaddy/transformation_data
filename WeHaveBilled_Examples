@@ -24,7 +24,7 @@
   "TransactionCurrency": "USD",
   "OrderTotal": 5999,
   "payment_type": "account",
-  "CC_TYPE": "Checking",
+  "CC_TYPE": "TBC",
   "CC_LAST_TWO": "34"
 }
 --------------------------------------
@@ -68,7 +68,7 @@
   "TransactionCurrency": "EUR",
   "OrderTotal": 9999,
   "payment_type": "sepa",
-   "IBAN_ENDS_WITH": "42",
+  "IBAN_ENDS_WITH": "42",
   "CREDITOR_ID": "DE98ZZZ09999999999",
   "CREDITOR_NAME": "GoDaddy",
   "MANDATE_ID": "MDT-123456789"
