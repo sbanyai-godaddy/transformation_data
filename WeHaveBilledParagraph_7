@@ -5,7 +5,7 @@
   "CREDITOR_ID": "9",
   "CREDITOR_NAME": "3GoDaddy.com, LLC",
   "MANDATE_ID": "MND-9",
-  "paragraphIds": ["7"],
+  "paragraphIds": "7",
   "OrderJson": {
     "CartItems": {
       "CartItem": [
