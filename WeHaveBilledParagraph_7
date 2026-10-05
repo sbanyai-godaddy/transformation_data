@@ -1,0 +1,147 @@
+{
+  "CC_TYPE": "Paypal",
+  "CC_LAST_TWO": "43",
+  "IBAN_ENDS_WITH": "",
+  "CREDITOR_ID": "9",
+  "CREDITOR_NAME": "3GoDaddy.com, LLC",
+  "MANDATE_ID": "MND-9",
+  "paragraphIds": ["7"],
+  "OrderJson": {
+    "CartItems": {
+      "CartItem": [
+        {
+          "QuantityValue": 1,
+          "QuantityUnitEx": "QuantityMonth",
+          "Price": 4590,
+          "GroupPrice": 4590,
+          "ProductName": "Hosting - Web - Starter - Linux cPanel - Renewal - 6 Month (recurring)",
+          "IsDisplayedInCart": true,
+          "PeriodValue": 1,
+          "PeriodUnitEx": "Period6monthunit",
+          "OrionMigrationId": "",
+          "ItemTrackingCode": "mya_acctsettings_renewals_multiselect",
+          "CICode": 0,
+          "SortOrder": 2001,
+          "SubTemplate": "default",
+          "Domains": [],
+          "ActivateUrl": {
+            "_excluded": false,
+            "_buttonPath": ""
+          },
+          "ProductInformationUrl": {
+            "_excluded": false,
+            "_buttonPath": ""
+          },
+          "LegalAgreementUrl": {
+            "_excluded": false,
+            "_buttonPath": ""
+          },
+          "GroupCartItems": {
+            "_count": 0
+          },
+          "ProductCategory": {
+            "SortOrder": 10,
+            "DisplayName": "[%%Phrase.General.DynamicContent.HOSTING%%]",
+            "ActionMessage": "",
+            "IconPath": "http://imagesak.secureserver.net/promos/htmlemails/icons/Hosting.png",
+            "ButtonText": "[%%Phrase.General.DynamicContent.manage%%]",
+            "ButtonUrlEx": "[%%https.MYA~~accid=3~ProductCategory023%%]",
+            "SubTemplate": "default",
+            "_orderProductCategoryId": 23,
+            "_productCategoryId": 23
+          },
+          "_index": 0,
+          "_nonUnifiedProductId": 294064,
+          "_productId": 294064,
+          "_productTypeId": 460
+        },
+        {
+          "QuantityValue": 1,
+          "QuantityUnitEx": "QuantityPlan",
+          "Price": 2988,
+          "GroupPrice": 2988,
+          "ProductName": "Personal Email (1 GB Total/1 Box) - Renewal",
+          "IsDisplayedInCart": true,
+          "PeriodValue": 1,
+          "PeriodUnitEx": "PeriodYear",
+          "OrionMigrationId": "",
+          "ItemTrackingCode": "mya_acctsettings_renewals_multiselect",
+          "CICode": 0,
+          "SortOrder": 1017,
+          "SubTemplate": "default",
+          "Domains": [],
+          "ActivateUrl": {
+            "_excluded": true,
+            "_buttonPath": "http://imagesak.secureserver.net/promos/htmlemails/&lt;##MARKET_ID##&gt;/DynamicContentButtonManage.gif"
+          },
+          "ProductInformationUrl": {
+            "_excluded": true,
+            "_buttonPath": ""
+          },
+          "LegalAgreementUrl": {
+            "_excluded": false,
+            "_buttonPath": ""
+          },
+          "GroupCartItems": {
+            "_count": 0
+          },
+          "ProductCategory": {
+            "SortOrder": 60,
+            "DisplayName": "[%%Phrase.General.DynamicContent.EMAIL%%]",
+            "ActionMessage": "",
+            "IconPath": "http://imagesak.secureserver.net/promos/htmlemails/icons/Workspace.png",
+            "ButtonText": "[%%Phrase.General.DynamicContent.manage%%]",
+            "ButtonUrlEx": "[%%https.MYA~~accid=4~ProductCategory046%%]",
+            "SubTemplate": "default",
+            "_orderProductCategoryId": 46,
+            "_productCategoryId": 46
+          },
+          "_index": 1,
+          "_nonUnifiedProductId": 281865,
+          "_productId": 11865,
+          "_productTypeId": 17
+        }
+      ],
+      "_count": 2
+    },
+    "ProductCategories": {
+      "ProductCategory": [
+        {
+          "SortOrder": 10,
+          "DisplayName": "[%%Phrase.General.DynamicContent.HOSTING%%]",
+          "ActionMessage": "",
+          "IconPath": "http://imagesak.secureserver.net/promos/htmlemails/icons/Hosting.png",
+          "ButtonText": "[%%Phrase.General.DynamicContent.manage%%]",
+          "ButtonUrlEx": "[%%https.MYA~~accid=3~ProductCategory023%%]",
+          "SubTemplate": "default",
+          "_orderProductCategoryId": 23,
+          "_productCategoryId": 23
+        },
+        {
+          "SortOrder": 60,
+          "DisplayName": "[%%Phrase.General.DynamicContent.EMAIL%%]",
+          "ActionMessage": "",
+          "IconPath": "http://imagesak.secureserver.net/promos/htmlemails/icons/Workspace.png",
+          "ButtonText": "[%%Phrase.General.DynamicContent.manage%%]",
+          "ButtonUrlEx": "[%%https.MYA~~accid=4~ProductCategory046%%]",
+          "SubTemplate": "default",
+          "_orderProductCategoryId": 46,
+          "_productCategoryId": 46
+        }
+      ],
+      "_count": 2
+    },
+    "OrderID": 1711426783,
+    "TransactionCurrency": "USD",
+    "Shipping": 0,
+    "ThirdPartyShipping": 0,
+    "Handling": 0,
+    "ShippingAndHandling": 0,
+    "Tax": 0,
+    "SubtotalDiscount": 0,
+    "Subtotal": 7578,
+    "OrderTotal": 7578,
+    "inStoreCredit": 0,
+    "BillingCountry": "US"
+  }
+}
