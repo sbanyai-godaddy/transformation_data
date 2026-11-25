@@ -1,0 +1,17 @@
+{
+  "Products": {
+    "Products": [
+      {
+        "UnifiedPfid": 1320692,
+        "ProductTypeId": 457,
+        "OrderId": "3539390165",
+        "commonName": "mautest.ca",
+        "name": "Basic Managed Hosting for WordPress Websites - SSL included - 1 Year",
+        "order_id": 3539390165,
+        "pf_id": 1320692,
+        "privateLabelID": 1,
+        "resource_id": 716414941
+      }
+    ]
+  }
+}
